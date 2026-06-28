@@ -1,0 +1,21 @@
+{
+  "name": "grupo_8_parcial2_bd2_div133",
+  "version": "1.0.0",
+  "description": "Sistema mínimo viable que se conecta a MongoDB y ejecuta consultas de agregación sobre un modelo de datos de ecommerce con usuarios, productos y órdenes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luvlsco/Grupo_8_Parcial2_BD2_Div133.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luvlsco/Grupo_8_Parcial2_BD2_Div133/issues"
+  },
+  "homepage": "https://github.com/luvlsco/Grupo_8_Parcial2_BD2_Div133#readme"
+}
