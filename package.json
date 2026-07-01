@@ -4,6 +4,8 @@
   "description": "Sistema mínimo viable que se conecta a MongoDB y ejecuta consultas de agregación sobre un modelo de datos de ecommerce con usuarios, productos y órdenes.",
   "main": "index.js",
   "scripts": {
+    "seed": "node src/seed.js",
+    "queries": "node src/queries.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
